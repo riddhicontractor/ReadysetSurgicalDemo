@@ -1,0 +1,17 @@
+D:\Projects\ReadysetSurgical\AWSLambda1\bin\Release\net6.0\linux-x64\AWSLambda1.deps.json
+D:\Projects\ReadysetSurgical\AWSLambda1\bin\Release\net6.0\linux-x64\AWSLambda1.runtimeconfig.json
+D:\Projects\ReadysetSurgical\AWSLambda1\bin\Release\net6.0\linux-x64\AWSLambda1.dll
+D:\Projects\ReadysetSurgical\AWSLambda1\bin\Release\net6.0\linux-x64\AWSLambda1.pdb
+D:\Projects\ReadysetSurgical\AWSLambda1\bin\Release\net6.0\linux-x64\Amazon.Lambda.Core.dll
+D:\Projects\ReadysetSurgical\AWSLambda1\bin\Release\net6.0\linux-x64\Amazon.Lambda.Serialization.SystemTextJson.dll
+D:\Projects\ReadysetSurgical\AWSLambda1\obj\Release\net6.0\linux-x64\AWSLambda1.csproj.AssemblyReference.cache
+D:\Projects\ReadysetSurgical\AWSLambda1\obj\Release\net6.0\linux-x64\AWSLambda1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ReadysetSurgical\AWSLambda1\obj\Release\net6.0\linux-x64\AWSLambda1.AssemblyInfoInputs.cache
+D:\Projects\ReadysetSurgical\AWSLambda1\obj\Release\net6.0\linux-x64\AWSLambda1.AssemblyInfo.cs
+D:\Projects\ReadysetSurgical\AWSLambda1\obj\Release\net6.0\linux-x64\AWSLambda1.csproj.CoreCompileInputs.cache
+D:\Projects\ReadysetSurgical\AWSLambda1\obj\Release\net6.0\linux-x64\AWSLambda1.csproj.CopyComplete
+D:\Projects\ReadysetSurgical\AWSLambda1\obj\Release\net6.0\linux-x64\AWSLambda1.dll
+D:\Projects\ReadysetSurgical\AWSLambda1\obj\Release\net6.0\linux-x64\refint\AWSLambda1.dll
+D:\Projects\ReadysetSurgical\AWSLambda1\obj\Release\net6.0\linux-x64\AWSLambda1.pdb
+D:\Projects\ReadysetSurgical\AWSLambda1\obj\Release\net6.0\linux-x64\AWSLambda1.genruntimeconfig.cache
+D:\Projects\ReadysetSurgical\AWSLambda1\obj\Release\net6.0\linux-x64\ref\AWSLambda1.dll

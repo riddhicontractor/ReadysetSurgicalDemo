@@ -1,0 +1,6 @@
+D:\Projects\ReadysetSurgical\AWSLambda1\bin\Release\net6.0\publish\AWSLambda1.deps.json
+D:\Projects\ReadysetSurgical\AWSLambda1\bin\Release\net6.0\publish\AWSLambda1.runtimeconfig.json
+D:\Projects\ReadysetSurgical\AWSLambda1\bin\Release\net6.0\publish\AWSLambda1.pdb
+D:\Projects\ReadysetSurgical\AWSLambda1\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+D:\Projects\ReadysetSurgical\AWSLambda1\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+D:\Projects\ReadysetSurgical\AWSLambda1\bin\Release\net6.0\publish\AWSLambda1.dll
